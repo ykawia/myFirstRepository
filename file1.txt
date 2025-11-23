@@ -1,1 +1,3 @@
 "This is file1.txt"
+"New line file1.txt"
+'Third line to file1.txt'
