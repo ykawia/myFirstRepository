@@ -1,1 +1,2 @@
-"This is file2.txt"
+These are the contents of File2.txt
+
